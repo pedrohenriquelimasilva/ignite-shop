@@ -100,6 +100,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 # Project vision
 
-<img src='./public/AnimationNextIgnite.gif' width='50%'/>
+<img src='./public/AnimationNextIgnite.gif'/>
 
 <p align="center">Made by Pedro Henrique Lima</p>
