@@ -1,24 +1,89 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Ignite shop - e-commerce
 
-## Getting Started
+<p align="center">
+  <a href="#-projeto">Project</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Technologies</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#how-to-use">How to use</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#common-mistakes">Common mistakes</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#common-mistakes">Nextjs info</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#project-vision">Project vision</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-First, run the development server:
+## 💻 Project
 
-```bash
+This project was built to support the study of how to develop applications in react, Nextjs with framework, componetion, context and its features. It is applied concepts of components, properties, CRUD, api integration from stripe, SSR, SPA and SSG (concepts of renderization web site).
+
+## 🚀 Technologies
+
+This project was developed with the following technologies:
+
+- JavaScript
+- TypeScript
+- React
+- NextJS
+- Stitches
+- Radix UI
+- Context API
+- Stripe API
+- Hooks
+- Html
+- Css
+
+## How to use?
+
+1. Download this repository and with your terminal, enter the directory
+
+```
+git clone SSH or HTTP
+```
+
+2. Select the folder you want to use first
+
+```
+cd folder
+```
+
+3. Run to install the dependencies
+
+```
+npm install
+OR
+yarn
+```
+
+4. And to start the application, run the command
+
+```
 npm run dev
-# or
+OR
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+5. And run build
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+```
+npm run build
+OR
+yarn build
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+6. Start aplication in production
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```
+npm run start
+OR
+yarn start
+```
 
-## Learn More
+## Common mistakes
+
+1. Check if your node is on version 16.8 or node lts
+
+2. create account in stripe server
+
+3. Add .env.local you key secret and public
+
+## Nextjs info
 
 To learn more about Next.js, take a look at the following resources:
 
@@ -32,3 +97,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+# Project vision
+
+<img src='./public/AnimationNextIgnite.gif' width='50%'/>
+
+<p align="center">Made by Pedro Henrique Lima</p>
